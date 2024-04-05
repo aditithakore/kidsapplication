@@ -1,0 +1,134 @@
+{
+  "alphabets": [
+    {
+      "letter": "A",
+      "phoneme": "A",
+      "image_link": "./assets/A.png"
+    },
+    {
+      "letter": "B",
+      "phoneme": "B",
+      "image_link": "./assets/B.png"
+    },    
+    {
+      "letter": "C",
+      "phoneme": "C",
+      "image_link": "./assets/C.png"
+    },
+    {
+      "letter": "D",
+      "phoneme": "D",
+      "image_link": "./assets/D.png"
+    },
+    {
+      "letter": "E",
+      "phoneme": "iy",
+      "image_link": "./assets/E.png"
+    },
+    {
+      "letter": "F",
+      "phoneme": "f",
+      "image_link": "./assets/F.png"
+    },
+    {
+      "letter": "G",
+      "phoneme": "j",
+      "image_link":"./assets/G.png"
+    },
+    {
+      "letter": "H",
+      "phoneme": "eych",
+      "image_link": "./assets/H.png"
+    },
+    {
+      "letter": "I",
+      "phoneme": "ay",
+      "image_link": "./assets/I.png"
+    },
+    {
+      "letter": "J",
+      "phoneme": "jey",
+      "image_link": "./assets/J.png"
+    },
+    {
+      "letter": "K",
+      "phoneme": "key",
+      "image_link": "./assets/K.png"
+    },
+    {
+      "letter": "L",
+      "phoneme": "el",
+      "image_link": "./assets/L.png"
+    },
+    {
+      "letter": "M",
+      "phoneme": "em",
+      "image_link": "./assets/M.png"
+    },
+    {
+      "letter": "N",
+      "phoneme": "en",
+      "image_link": "./assets/N.png"
+    },
+    {
+      "letter": "O",
+      "phoneme": "ow",
+      "image_link":"./assets/O.png"
+    },
+    {
+      "letter": "P",
+      "phoneme": "p",
+      "image_link": "./assets/p.png"
+    },
+    {
+      "letter": "Q",
+      "phoneme": "kyuw",
+      "image_link": "./assets/Q.png"
+    },
+    {
+      "letter": "R",
+      "phoneme": "ahr",
+      "image_link": "./assets/R.png"
+    },
+    {
+      "letter": "S",
+      "phoneme": "es",
+      "image_link": "./assets/S.png"
+    },
+    {
+      "letter": "T",
+      "phoneme": "tee",
+      "image_link": "./assets/T.png"
+    },
+    {
+      "letter": "U",
+      "phoneme": "yoo",
+      "image_link": "./assets/U.png"
+    },
+    {
+      "letter": "V",
+      "phoneme": "vee",
+      "image_link": "./assets/V.png"
+    },
+    {
+      "letter": "W",
+      "phoneme": "dubelyoo",
+      "image_link": "./assets/W.png"
+    },
+    {
+      "letter": "X",
+      "phoneme": "eks",
+      "image_link": "./assets/X.png"
+    },
+    {
+      "letter": "Y",
+      "phoneme": "way",
+      "image_link": "./assets/Y.png"
+    },
+    {
+      "letter": "Z",
+      "phoneme": "zed",
+      "image_link": "./assets/Z.png"
+    }
+  ]
+}

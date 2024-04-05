@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "category": "Shapes",
+      "question": "What shape has three sides?",
+      "options": ["Square", "Circle", "Triangle", "Rectangle"],
+      "correct_answer": "Triangle"
+    },
+    {
+      "category": "Animals",
+      "question": "Which animal says 'meow'?",
+      "options": ["Dog", "Cat", "Cow", "Lion"],
+      "correct_answer": "Cat"
+    },
+    {
+      "category": "Colors",
+      "question": "Which color is a mixture of red and yellow?",
+      "options": ["Green", "Purple", "Orange", "Blue"],
+      "correct_answer": "Orange"
+    },
+    {
+      "category": "Numbers",
+      "question": "What comes after eight?",
+      "options": ["Nine", "Ten", "Seven", "Six"],
+      "correct_answer": "Nine"
+    },
+    {
+      "category": "Alphabets",
+      "question": "What letter comes after 'C'?",
+      "options": ["D", "B", "E", "F"],
+      "correct_answer": "D"
+    },
+    {
+      "category": "Shapes",
+      "question": "What shape has four equal sides and four right angles?",
+      "options": ["Triangle", "Square", "Circle", "Rectangle"],
+      "correct_answer": "Square"
+    },
+    {
+      "category": "Animals",
+      "question": "Which animal has a trunk?",
+      "options": ["Elephant", "Giraffe", "Lion", "Tiger"],
+      "correct_answer": "Elephant"
+    },
+    {
+      "category": "Colors",
+      "question": "Which color is the grass?",
+      "options": ["Blue", "Red", "Green", "Yellow"],
+      "correct_answer": "Green"
+    },
+    {
+      "category": "Numbers",
+      "question": "What is the sum of 5 and 4?",
+      "options": ["Nine", "Ten", "Eleven", "Eight"],
+      "correct_answer": "Nine"
+    },
+    {
+      "category": "Alphabets",
+      "question": "Which letter comes before 'B'?",
+      "options": ["A", "C", "D", "E"],
+      "correct_answer": "A"
+    },
+    {
+      "category": "Shapes",
+      "question": "What shape has no sides or angles?",
+      "options": ["Circle", "Square", "Triangle", "Oval"],
+      "correct_answer": "Circle"
+    },
+    {
+      "category": "Animals",
+      "question": "Which animal says 'oink oink'?",
+      "options": ["Duck", "Pig", "Chicken", "Goat"],
+      "correct_answer": "Pig"
+    },
+    {
+      "category": "Colors",
+      "question": "Which color is the sky during the day?",
+      "options": ["Black", "Green", "Yellow", "Blue"],
+      "correct_answer": "Blue"
+    },
+    {
+      "category": "Numbers",
+      "question": "What is the product of 2 and 3?",
+      "options": ["Five", "Six", "Four", "Three"],
+      "correct_answer": "Six"
+    },
+    {
+      "category": "Alphabets",
+      "question": "Which letter comes after 'J'?",
+      "options": ["H", "I", "K", "L"],
+      "correct_answer": "K"
+    },
+    {
+      "category": "Shapes",
+      "question": "What shape has five sides?",
+      "options": ["Pentagon", "Hexagon", "Octagon", "Square"],
+      "correct_answer": "Pentagon"
+    },
+    {
+      "category": "Animals",
+      "question": "Which animal hops?",
+      "options": ["Elephant", "Giraffe", "Kangaroo", "Lion"],
+      "correct_answer": "Kangaroo"
+    },
+    {
+      "category": "Colors",
+      "question": "Which color is a mixture of blue and yellow?",
+      "options": ["Green", "Purple", "Orange", "Pink"],
+      "correct_answer": "Green"
+    },
+    {
+      "category": "Numbers",
+      "question": "What is the successor of 9?",
+      "options": ["Ten", "Eleven", "Twelve", "Eight"],
+      "correct_answer": "Ten"
+    },
+    {
+      "category": "Alphabets",
+      "question": "Which letter comes after 'S'?",
+      "options": ["T", "R", "U", "V"],
+      "correct_answer": "T"
+    }
+  ]
+}

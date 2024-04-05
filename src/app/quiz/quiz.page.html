@@ -1,0 +1,27 @@
+<ion-icon name="arrow-back-outline" style="font-size: large;" class="ion-padding" (click)="goBack()"></ion-icon>
+<ion-content>
+<h1>Welcome to quiz</h1>
+<ion-card *ngFor="let question of questions">
+  <ion-card-header>
+    <ion-card-title>{{ question.category }}</ion-card-title>
+  </ion-card-header>
+
+  <ion-card-content>
+    <p>{{ question.question }}</p>
+    <ion-list>
+      <ion-radio-group [(ngModel)]="selectedOption">
+        <ion-item *ngFor="let option of question.options">
+          <ion-label>{{ option }}</ion-label>
+          <ion-radio [value]="option"></ion-radio>
+        </ion-item>
+      </ion-radio-group>
+    </ion-list>
+  </ion-card-content>
+
+  <ion-footer>
+    <ion-toolbar>
+      <ion-button expand="block" (click)="checkAnswer(question)">Submit Answer</ion-button>
+    </ion-toolbar>
+  </ion-footer>
+</ion-card>
+</ion-content>

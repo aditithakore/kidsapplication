@@ -1,0 +1,54 @@
+{
+  "shapes": [
+    {
+      "name": "Circle",
+      "phoneme": "sir-kuhl",
+      "image_link": "https://www.pngall.com/wp-content/uploads/13/Red-Circle-PNG-Images-HD.png"
+    },
+    {
+      "name": "Square",
+      "phoneme": "skwair",
+      "image_link": "https://www.freeiconspng.com/thumbs/square-png/blue-square-png-13.png"
+    },
+    {
+      "name": "Triangle",
+      "phoneme": "trahy-an-guhl",
+      "image_link": "https://pngimg.com/d/triangle_PNG108.png"
+    },
+    {
+      "name": "Rectangle",
+      "phoneme": "rek-tang-guhl",
+      "image_link": "https://p7.hiclipart.com/preview/379/636/3/color-paper-pink-wallpaper-pink-rectangle-cliparts.jpg"
+    },
+    {
+      "name": "Pentagon",
+      "phoneme": "pen-tuh-guhn",
+      "image_link": "https://ouch-cdn2.icons8.com/SH0D7n8pj-17ExJNmC-k4MYTWUg-9EvVex8Abw7asmc/rs:fit:479:456/extend:false/wm:1:re:0:0:0.8/wmid:ouch/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzc2/L2E4YzdkZDRiLTZk/ODAtNDJjYy05ZmJj/LWUzMmM3N2EyOWMy/Ny5zdmc.png"
+    },
+    {
+      "name": "Hexagon",
+      "phoneme": "hek-suh-guhn",
+      "image_link": "https://i.pinimg.com/474x/37/8c/c2/378cc219a976986bdde7529b858f9014.jpg"
+    },
+    {
+      "name": "Octagon",
+      "phoneme": "ok-tuh-guhn",
+      "image_link": "https://illustoon.com/photo/7413.png"
+    },
+    {
+      "name": "Oval",
+      "phoneme": "oh-vuhl",
+      "image_link": "https://www.pngitem.com/pimgs/m/44-447849_oval-shape-png-circle-transparent-png.png"
+    },
+    {
+      "name": "Diamond",
+      "phoneme": "dahy-muhnd",
+      "image_link": "https://illustoon.com/photo/9255.png"
+    },
+    {
+      "name": "Star",
+      "phoneme": "stahr",
+      "image_link": "https://static.vecteezy.com/system/resources/previews/017/178/369/original/creative-star-shape-on-transparent-background-free-png.png"
+    }
+  ]
+}

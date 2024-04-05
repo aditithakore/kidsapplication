@@ -1,17 +1,14 @@
-<ion-header [translucent]="true">
-  <ion-toolbar>
-    <ion-title>
-      Tab 3
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
-
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Tab 3</ion-title>
-    </ion-toolbar>
-  </ion-header>
-
-  <app-explore-container name="Tab 3 page"></app-explore-container>
+<ion-content class="leaderboard-page">
+  <div class="background"></div>
+<h1>🌟LEADERBOARD 🌟</h1>
+  <ion-list lines="none" class="leaderboard-list ion-padding">
+    <ion-item *ngFor="let player of players" class="leaderboard-item">
+      <ion-avatar slot="start">
+        <img src="https://img.freepik.com/free-psd/cute-girl-kid-child-holding-trophy-jumping-cartoon-3d-character_56104-2484.jpg?w=826"
+          alt="Avatar">
+      </ion-avatar>
+      <ion-label style="font-size: larger;" class="ion-padding">{{ player.name }}</ion-label>
+      <ion-badge>{{ player.score }}</ion-badge>
+    </ion-item>
+  </ion-list>
 </ion-content>

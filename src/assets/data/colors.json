@@ -1,0 +1,54 @@
+{
+  "colors": [
+    {
+      "name": "Red",
+      "phoneme": "red",
+      "image_link": "https://example.com/red.png"
+    },
+    {
+      "name": "Blue",
+      "phoneme": "bloo",
+      "image_link": "https://example.com/blue.png"
+    },
+    {
+      "name": "Yellow",
+      "phoneme": "yel-oh",
+      "image_link": "https://example.com/yellow.png"
+    },
+    {
+      "name": "Green",
+      "phoneme": "green",
+      "image_link": "https://example.com/green.png"
+    },
+    {
+      "name": "Purple",
+      "phoneme": "pur-puhl",
+      "image_link": "https://example.com/purple.png"
+    },
+    {
+      "name": "Orange",
+      "phoneme": "or-anj",
+      "image_link": "https://example.com/orange.png"
+    },
+    {
+      "name": "Pink",
+      "phoneme": "pingk",
+      "image_link": "https://example.com/pink.png"
+    },
+    {
+      "name": "Brown",
+      "phoneme": "broun",
+      "image_link": "https://example.com/brown.png"
+    },
+    {
+      "name": "Black",
+      "phoneme": "blak",
+      "image_link": "https://example.com/black.png"
+    },
+    {
+      "name": "White",
+      "phoneme": "hwahyt",
+      "image_link": "https://example.com/white.png"
+    }
+  ]
+}
